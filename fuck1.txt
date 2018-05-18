@@ -1,4 +1,7 @@
 sadsad
 xczxcz
 qweq
-2132
+<<<<<<< HEAD
+=======
+asdsadsadsadasdasdsadsadsdad
+>>>>>>> c176522b1d836db32f478cf13b67d0344bcb2996
